@@ -1,0 +1,1 @@
+Add-MailboxPermission -Identity [X] -User [X] -AccessRights FullAccess -AutoMapping $false
